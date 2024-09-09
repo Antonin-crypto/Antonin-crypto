@@ -1,5 +1,11 @@
 ## Hi I'm antonin 👋
 
+## **My statistics on GitHub**
+<div align="center">
+	<img width="252" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonin_crypto&langs_count=5&theme=codeSTACKr&border_color=ffffff" alt="most used language" />
+	<img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=antonin-crypto&show_icons=true&&theme=codeSTACKr&border_color=ffffff" alt="github stats" />
+</div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
