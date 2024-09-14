@@ -1,6 +1,5 @@
-## Hi I'm antonin 👋
-
-## **My statistics on GitHub**
+<h1 align="center"> Hi I'm Antonin 👋</h1>
+<h2 align="center">My statistics on GitHub</h2>
 <div align="center">
 	<img width="252" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonin-crypto&langs_count=5&theme=codeSTACKr&border_color=ffffff" alt="most used language" />
 	<img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=antonin-crypto&show_icons=true&&theme=codeSTACKr&border_color=ffffff" alt="github stats" />
