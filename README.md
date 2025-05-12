@@ -43,11 +43,13 @@ Plateforme d’hébergement de jeux indépendants créés avec Unity.
 
 - ⚙️ Installation locale
 # Cloner le repo
+```
 git clone https://github.com/Antonin-crypto/galaxia-arkada.git
-
+```
 # Aller dans le dossier
+```
 cd galaxia-arkada
-
+```
 # Installer les dépendances
 ```
 npm install
